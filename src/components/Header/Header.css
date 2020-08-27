@@ -1,0 +1,13 @@
+.logo img{
+    height: 100px;
+}
+
+.btn-success{
+    background-color:blue;
+    font-weight: 700;
+    color: white !important;
+}
+
+.btn-success:hover{
+    background-color:#4a89dc;
+}
